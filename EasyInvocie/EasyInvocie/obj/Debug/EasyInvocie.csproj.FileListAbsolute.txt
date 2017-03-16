@@ -1,0 +1,14 @@
+c:\users\kmiteva\documents\visual studio 2015\Projects\EasyInvocie\EasyInvocie\bin\Debug\EasyInvocie.exe.config
+c:\users\kmiteva\documents\visual studio 2015\Projects\EasyInvocie\EasyInvocie\obj\Debug\EasyInvocie.csprojResolveAssemblyReference.cache
+c:\users\kmiteva\documents\visual studio 2015\Projects\EasyInvocie\EasyInvocie\obj\Debug\EasyInvocie.Form1.resources
+c:\users\kmiteva\documents\visual studio 2015\Projects\EasyInvocie\EasyInvocie\obj\Debug\EasyInvocie.Properties.Resources.resources
+c:\users\kmiteva\documents\visual studio 2015\Projects\EasyInvocie\EasyInvocie\obj\Debug\EasyInvocie.csproj.GenerateResource.Cache
+c:\users\kmiteva\documents\visual studio 2015\Projects\EasyInvocie\EasyInvocie\bin\Debug\EasyInvocie.exe
+c:\users\kmiteva\documents\visual studio 2015\Projects\EasyInvocie\EasyInvocie\bin\Debug\EasyInvocie.pdb
+c:\users\kmiteva\documents\visual studio 2015\Projects\EasyInvocie\EasyInvocie\bin\Debug\itextsharp.dll
+c:\users\kmiteva\documents\visual studio 2015\Projects\EasyInvocie\EasyInvocie\bin\Debug\itextsharp.xml
+c:\users\kmiteva\documents\visual studio 2015\Projects\EasyInvocie\EasyInvocie\obj\Debug\EasyInvocie.exe
+c:\users\kmiteva\documents\visual studio 2015\Projects\EasyInvocie\EasyInvocie\obj\Debug\EasyInvocie.pdb
+D:\TestBranches\EasyInvocie\EasyInvocie\bin\Debug\EasyInvocie.exe.config
+D:\TestBranches\EasyInvocie\EasyInvocie\obj\Debug\EasyInvocie.exe
+D:\TestBranches\EasyInvocie\EasyInvocie\obj\Debug\EasyInvocie.pdb
